@@ -1,0 +1,27 @@
+[
+  {
+    "id":"71531079994440241361842365096686926738605200257070642545906137530898670773872",
+    "description":"Use the BNB to do Launchpad on Binance, and then use it for Sirio growth? (Marketing, buyback and burn, and so on...)",
+    "descriptionHash":"0x770eab342c56bd61dcf3699d1b2032fff37db222712caca6924a0a59405ed0ba",
+    "operations":"Send 23.81 BNB to 0x289C5908BAB445D716aa2A0f00a2e5A9d0108A70 (dev)",
+    "target":"0x726652F8C5c7596F3700281365328f4984b1Ec1e",
+    "value":"0"
+  },       
+  {
+    "id":"96458435314086978198572800983476621502463654488477134528485941059116652356740",
+    "description":"Use the rest of the BNB and 1.5 billions Sir of the community wallet to finance a listing to an exchange (Azbit)?",
+    "descriptionHash":"0x7c2e55accab19d137b583ba0f1e0462ae26d0858fa45d0dc6f8f2a79ff769bd9",
+    "operations":"transfer(0x289C5908BAB445D716aa2A0f00a2e5A9d0108A70,1500000000000000000000000000)",
+    "target":"0x726652F8C5c7596F3700281365328f4984b1Ec1e",
+    "value":"768811513071796313"
+  },
+  {
+        "id":"49312160094025544761225068174675616516315174746712469040961136339942781300520",
+        "description":"Swap of half BnB community wallet's balance in USDT. Stake of BnB/USDT on MDEX (30%-50% APR). Redistribution of next 3 weeks Sirio's volume through holders. If the proposal will not pass, the BnB balance will be entirely used for marketing.",
+        "descriptionHash":"0x7c2e55accab19d137b583ba0f1e0462ae26d0858fa45d0dc6f8f2a79ff769bd9",
+        "operations":"function approveAndAddLiquidity () payable public, function stake(31) public of 0xafcc197769c822ad52661075432817cda7e9956e",
+        "target":"0x726652F8C5c7596F3700281365328f4984b1Ec1e",
+        "value":"0"
+      }
+         
+]
